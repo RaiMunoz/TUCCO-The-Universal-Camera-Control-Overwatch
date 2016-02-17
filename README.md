@@ -1,0 +1,2 @@
+# TUCCO-The-Universal-Camera-Control-Overwatch
+This is my EE425 project designed using an MPU6050 gyroscope/accelerometer, servos with 3D printed parts, arduino uno, webcam, a cap and processing. The purpose is to coordinate head position with camera position and have them synchronized with each other. The camera takes a streaming video while implementing face detection using haar cascades using Processing
